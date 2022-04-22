@@ -198,9 +198,13 @@ Budibase is open-source, licensed as [GPL v3](https://www.gnu.org/licenses/gpl-3
 
 <br /><br />
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarco-santulli%2Fbudibase.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarco-santulli%2Fbudibase?ref=badge_large)
+
 ## ⭐ Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Budibase/budibase.svg)](https://starchart.cc/Budibase/budibase)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmarco-santulli%2Fbudibase.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmarco-santulli%2Fbudibase?ref=badge_shield)
 
 If you are having issues between updates of the builder, please use the guide [here](https://github.com/Budibase/budibase/blob/HEAD/.github/CONTRIBUTING.md#troubleshooting) to clear down your environment.
 
